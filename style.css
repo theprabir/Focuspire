@@ -9,11 +9,11 @@
 
 video {
   object-fit: cover;
-  width: 100vw;
-  height: 100vh;
+  width: 103vw;
+  height: 103vh;
   position: fixed;
-  top: 0;
-  left: 0;
+  top: -10px;
+  left: -1px;
   filter: blur(1.5px);
 }
 
@@ -369,4 +369,20 @@ video {
 
 .pulse {
     animation: pulse 2s infinite;
+}
+
+
+
+#footer{
+  position: fixed;
+  bottom: 1em;
+  right: 1.5em;
+  color: #ced1ff;
+  font-size: 0.8em;
+}
+
+#footer a{
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 500;
 }
