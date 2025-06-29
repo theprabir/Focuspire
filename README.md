@@ -6,38 +6,25 @@ Focuspire is a sleek, all-in-one web app designed to supercharge your productivi
 
 ✨ Key Features
 1. Pomodoro Timer with Smart Sessions
-Customizable work/break intervals (25/5, 50/10, or custom)
+work/break intervals (25/5/10)
 
 Auto-start next session for uninterrupted flow
-
-Session history & progress tracking
 
 2. Lofi Music Player for Deep Focus
 Curated playlists of chill beats to enhance concentration
 
 Volume control & auto-play when sessions start
 
-Smooth transitions between work and break music
 
-3. Live Digital Clock & Date Display
+3. Live Digital Clock Display
 Minimalist, elegant timekeeping
 
-Dark/Light mode for eye comfort
-
 Always visible to keep you on schedule
-
-4. Productivity Boosters
-Task list integration (optional)
-
-Session analytics (weekly/monthly focus stats)
-
-Motivational quotes & micro-break reminders
 
 🚀 Why Focuspire?
 Unlike generic timers, Focuspire creates a complete focus environment:
 ✔ Seamless workflow – Music syncs with your sessions
 ✔ Visually calming – Clean, distraction-free UI
-✔ Adaptive to your rhythm – Adjustable timers & themes
 ✔ No ads, no clutter – Just pure productivity
 
 🎯 Perfect For:
