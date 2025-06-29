@@ -1,6 +1,9 @@
 # FOCUSPIRE
 "Sync Your Time, Tune Your Mind"
 
+![Preview](https://github.com/user-attachments/assets/0a3eeea7-a4ce-426d-b2dc-ed3e3ed89965)
+
+
 Elevate Your Focus with Music, Time, and Flow
 Focuspire is a sleek, all-in-one web app designed to supercharge your productivity through the perfect blend of Pomodoro time management, immersive lofi music, and a live digital clock. Built for students, developers, and creative professionals, Focuspire transforms your workflow into a rhythmic, distraction-free experience.
 
