@@ -20,7 +20,6 @@ let shuffleHistory = [];
 
 // Your Music Library - Replace with your actual tracks
 const musicLibrary = [
-    { title: "Coffee Break", artist: "Lo-Fi Vibes", path: "Assets/Tracks/1.mp3" },
     { title: "Rainy Window", artist: "Lo-Fi Vibes", path: "Assets/Tracks/2.mp3" },
     { title: "Night Lights", artist: "Lo-Fi Vibes", path: "Assets/Tracks/3.mp3" },
     { title: "Midnight Drizzle", artist: "Lo-Fi Vibes", path: "Assets/Tracks/4.mp3" },
@@ -32,7 +31,6 @@ const musicLibrary = [
     { title: "Tea-Stained Melodies", artist: "Lo-Fi Vibes", path: "Assets/Tracks/10.mp3" },
     { title: "Sleepless in the City", artist: "Lo-Fi Vibes", path: "Assets/Tracks/11.mp3" },
     { title: "Distant Train Whistle", artist: "Lo-Fi Vibes", path: "Assets/racks/12.mp3" },
-    { title: "Puddle Reflections", artist: "Lo-Fi Vibes", path: "Assets/Tracks/13.mp3" },
     { title: "Lofi Sunday", artist: "Lo-Fi Vibes", path: "Assets/Tracks/14.mp3" },
     
 ];
