@@ -1,4 +1,4 @@
-# focuspire
+# FOCUSPIRE
 "Sync Your Time, Tune Your Mind"
 
 Elevate Your Focus with Music, Time, and Flow
